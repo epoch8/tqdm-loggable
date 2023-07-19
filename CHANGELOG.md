@@ -1,10 +1,10 @@
-# +epoch8.1
-
-- Invert rate display to s/it if rate is less than 1
-
 # 0.1.4
 
 - Fix [TQDM auto compatibility with Datalore](https://github.com/tradingstrategy-ai/tqdm-loggable/pull/4)
+
+## Epoch8 patch
+
+- Invert rate display to s/it if rate is less than 1
 
 # 0.1.3
 
