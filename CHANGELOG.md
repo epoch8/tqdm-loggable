@@ -1,4 +1,4 @@
-# WIP
+# +epoch8.1
 
 - Invert rate display to s/it if rate is less than 1
 

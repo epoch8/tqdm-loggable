@@ -5,5 +5,8 @@ from tqdm_loggable.auto import tqdm
 logging.basicConfig(level=logging.INFO)
 
 
-for i in tqdm(range(10)):
-    time.sleep(5)
+sleeps = [8, 2, 7, 3, 4, 6, 8, 2, 7, 3]
+
+
+for i in tqdm(sleeps):
+    time.sleep(i)
